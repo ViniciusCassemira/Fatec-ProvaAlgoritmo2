@@ -1,6 +1,6 @@
 Algoritmo "ArthurCosta_ViniciusCassemira"
 //feito por Arthur Costa e Vinícius Cassemira
-//essa foi a versão realizada no dia da prova
+//nessa versão foi corrida um bug visual, apenas isso
 
 //criação dos registros paciente/fila
 tipo
