@@ -1,10 +1,16 @@
-# P2 Algoritmo e Lógica de Programação
+# P2 Algoritmos e Lógica de Programação
 Segunda prova da matéria de Algoritmos e Lógica de Programação pelo curso de Desenvolvimento de Software Multiplataforma - Fatec Jahu-SP
 
 ## Colaboradores
 
 - [Arthur Chagas da Costa](https://github.com/arthurch-costa)
 - [Vinícius Cruz Cassemira](https://github.com/ViniciusCassemira)
+
+## Links
+
+- Para ver os demais conteúdos de algoritmos realizados em sala de aula, [clique aqui](https://github.com/ViniciusCassemira/algoritmos)
+- Para visitar o repositório da primeira prova de algoritmos, [clique aqui](https://github.com/ViniciusCassemira/Fatec-ProvaAlgoritmo1)
+- No meu linkedin apresento o exercício acima. [clique aqui para ver o vídeo da apresentação](https://www.linkedin.com/feed/update/urn:li:ugcPost:7210635625757134848/)
 
 ## Enunciado
 
